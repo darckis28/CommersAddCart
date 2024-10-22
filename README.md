@@ -2,6 +2,16 @@
 
 ![Vista previa del diseño para el desafío de codificación de lista de productos con carrito](./public/assets/preview.jpg)
 
+## Enlaces Preview:
+
+---
+
+## 🚀 [Ver Proyecto en Vivo](https://commerscart.netlify.app)
+
+---
+
+- [Netlify](https://www.netlify.com/)
+
 ## ¡Bienvenido! 👋
 
 Gracias por revisar este desafío de codificación front-end.
