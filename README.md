@@ -1,6 +1,6 @@
 # Frontend Mentor - Lista de productos con carrito
 
-![Vista previa del diseño para el desafío de codificación de lista de productos con carrito](./assets/preview.jpg)
+![Vista previa del diseño para el desafío de codificación de lista de productos con carrito](./public/assets/preview.jpg)
 
 ## ¡Bienvenido! 👋
 
