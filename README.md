@@ -10,8 +10,6 @@
 
 ---
 
-- [Netlify](https://www.netlify.com/)
-
 ## ¡Bienvenido! 👋
 
 Gracias por revisar este desafío de codificación front-end.
