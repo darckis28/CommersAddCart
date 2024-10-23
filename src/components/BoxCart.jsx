@@ -1,4 +1,4 @@
-import ListCar from "./ListCar";
+import ListCart from "./ListCart";
 import carbonNeutral from "/assets/images/icon-carbon-neutral.svg";
 import pastel from "/assets/images/illustration-empty-cart.svg";
 
@@ -25,7 +25,7 @@ const BoxCard = () => {
         <div>
           <ul>
             {state.map((item, idx) => (
-              <ListCar key={idx} item={item} />
+              <ListCart key={idx} item={item} />
             ))}
           </ul>
           <div className="flex justify-between items-center py-4">

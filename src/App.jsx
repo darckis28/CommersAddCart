@@ -1,4 +1,4 @@
-import BoxCard from "./components/BoxCard";
+import BoxCart from "./components/BoxCart";
 import data from "./data/data.json";
 import CardProduct from "./components/CardProduct";
 import { Context } from "./context/Context";
@@ -26,7 +26,7 @@ export default function App() {
             </section>
           </section>
           <aside className="p-3">
-            <BoxCard />
+            <BoxCart />
           </aside>
         </main>
       </div>

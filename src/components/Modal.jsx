@@ -30,8 +30,12 @@ const Modal = () => {
     <>
       {showModal && (
         <div className="fixed left-0 top-0 w-screen h-screen bg-black bg-opacity-80 grid place-items-center">
-          <div className="bg-white p-5 min-w-[450px]">
-            <img src={orderConfirm} alt="orderconfirm" className="w-8" />
+          <div className="bg-white p-5 sm:min-w-[450px]">
+            <img
+              src={orderConfirm}
+              alt="orderconfirm"
+              className="w-8 aspect-square object-cover"
+            />
             <h2 className="text-3xl font-bold mt-5 mb-3">Order Confirmed</h2>
             <p className="text-sm text-Rose-400 mb-5">
               We hope you enjot youe food!
