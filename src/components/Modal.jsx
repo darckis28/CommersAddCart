@@ -38,7 +38,7 @@ const Modal = () => {
             />
             <h2 className="text-3xl font-bold mt-5 mb-3">Order Confirmed</h2>
             <p className="text-sm text-Rose-400 mb-5">
-              We hope you enjot youe food!
+              We hope you enjot youe food!!
             </p>
             <div className="bg-Rose-50 p-5 rounded-sm mb-5">
               <ul className="mb-4 max-h-64 overflow-y-scroll">
